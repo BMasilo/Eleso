@@ -8,6 +8,7 @@ import BenefitsSection from './Components/BenefitsSection';
 function App() {
   return (
     <div className="App">
+
       <Social/>
       <Main/>
       <BenefitsSection/>
